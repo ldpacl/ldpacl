@@ -3,6 +3,12 @@
 <h3 align="center">Networking, Cloud and Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldpacl&label=Profile%20views&color=0e75b6&style=flat" alt="ldpacl" /> </p>
+<p align="left">
+<img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width = "106"/>
+<img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width = "106"/>
+<img src="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="106"/>
+<img src="https://images.credly.com/size/680x680/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" width = "106"/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldpacl" alt="ldpacl" /></a> </p>
 
