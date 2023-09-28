@@ -43,7 +43,7 @@
 
 - 📫 Reach me at --> **deepak1001110@gmail.com**
 
-- 📄 Check out my resume --> [(https://rb.gy/z60i8)](https://rb.gy/z60i8)
+- 📄 Check out my resume --> [(https://rb.gy/1fkv9)](https://rb.gy/1fkv9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
