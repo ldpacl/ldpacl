@@ -29,10 +29,8 @@
 
 <p>
 <a href="https://tryhackme.com/devineh/badges/terminaled" target="_blank"><img src="https://tryhackme.com/img/badges/linux.svg" width = "106"/></a>
-<a href="https://tryhackme.com/devineh/badges/world-wide-web" target="_blank"><img src="https://tryhackme.com/img/badges/howthewebworks.svg" width = "106"/></a>
 <a href="https://tryhackme.com/devineh/badges/web-fund" target="_blank"><img src="https://tryhackme.com/img/badges/webbed.svg" width="106"/></a>
 <a href="https://tryhackme.com/devineh/badges/network-fundamentals" target="_blank"><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width = "106"/></a>
-<a href="https://tryhackme.com/devineh/badges/first-4-rooms" target="_blank"><img src="https://tryhackme.com/img/badges/firstfour.svg" width = "106"/></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldpacl" alt="ldpacl" /></a> </p>
