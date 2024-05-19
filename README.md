@@ -45,7 +45,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-n-308264227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-n-308264227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak--n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak--n/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1_dpac_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1_dpac_1" height="30" width="40" /></a>
 </p>
 
