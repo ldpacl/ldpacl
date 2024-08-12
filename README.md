@@ -35,8 +35,6 @@
 <a href="https://tryhackme.com/devineh/badges/network-fundamentals" target="_blank"><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" width = "106"/></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldpacl" alt="ldpacl" /></a> </p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&" alt="ldpacl" /></p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldpacl" alt="ldpacl" /></a></p>
