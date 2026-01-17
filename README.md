@@ -8,18 +8,10 @@
 
 <div align="center">
 
-<a href="https://github.com/ldpacl?tab=repositories">
-  <img src="https://komarev.com/ghpvc/?username=ldpacl&label=👁️%20Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
-</a>
-<a href="https://github.com/ldpacl?tab=followers">
-  <img src="https://img.shields.io/github/followers/ldpacl?label=👥%20Followers&color=00D9FF&style=plastic" alt="Followers" />
-</a>
-<a href="https://github.com/ldpacl?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ldpacl?label=⭐%20Total%20Stars&color=FFD700&style=plastic" alt="Total Stars" />
-</a>
-<a href="https://github.com/ldpacl?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ldpacl?affiliations=OWNER&label=🌟%20My%20Stars&color=FF6B9D&style=plastic" alt="My Stars" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=ldpacl&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ldpacl?label=👥%20Followers&color=00D9FF&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ldpacl?label=⭐%20Total%20Stars&color=FFD700&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/ldpacl?affiliations=OWNER&label=🌟%20My%20Stars&color=FF6B9D&style=for-the-badge)
 
 </div>
 
@@ -88,14 +80,13 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldpacl&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldpacl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&theme=tokyonight" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&theme=tokyonight" alt="GitHub Streak" />
+  <p><i>GitHub stats cards are temporarily unavailable due to service maintenance.</i></p>
   
 </div>
 
@@ -190,7 +181,7 @@
   
   <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/main/dist/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
   
-  _Note: Snake animation requires a GitHub Action workflow. Check [Platane/snk](https://github.com/Platane/snk) for setup instructions._
+  <p><i>Snake animation is generated automatically by GitHub Actions. If you don't see it, the workflow may still be running.</i></p>
   
 </div>
 
@@ -216,8 +207,8 @@
     <b>Thanks for visiting! 👋</b>
   </p>
   
-  <p align="center">
+<p align="center">
     <i>⚡ Building the future, one commit at a time ⚡</i>
-  </p>
+</p>
   
 </div>
