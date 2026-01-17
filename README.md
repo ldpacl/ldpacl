@@ -181,7 +181,7 @@
   
   <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/main/dist/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
   
-  <p><i>Snake animation is generated automatically by GitHub Actions. If you don't see it, the workflow may still be running.</i></p>
+  <p><i>Snake animation is generated automatically by GitHub Actions.</i></p>
   
 </div>
 
