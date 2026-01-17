@@ -88,7 +88,14 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B9DC3&sideNums=00D9FF&currStreakNum=FFD700" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldpacl&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldpacl&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&theme=tokyonight" alt="GitHub Streak" />
   
 </div>
 
@@ -181,7 +188,7 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/main/dist/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
   
   _Note: Snake animation requires a GitHub Action workflow. Check [Platane/snk](https://github.com/Platane/snk) for setup instructions._
   
