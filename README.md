@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Deepak;Networking+Enthusiast;Cloud+Architect;Cybersecurity+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Deepak;Networking+Enthusiast;Cloud+Architect;Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🌐 Building Secure Cloud Infrastructure | 🔒 Cybersecurity Advocate | ☁️ Multi-Cloud Expert</h3>
@@ -9,16 +9,16 @@
 <div align="center">
 
 <a href="https://github.com/ldpacl?tab=repositories">
-  <img src="https://komarev.com/ghpvc/?username=ldpacl&label=👁️%20Profile%20Views&color=0e75b6&style=plastic&logo=github" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ldpacl&label=👁️%20Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
 </a>
 <a href="https://github.com/ldpacl?tab=followers">
-  <img src="https://img.shields.io/github/followers/ldpacl?label=👥%20Followers&color=00D9FF&style=plastic&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ldpacl?label=👥%20Followers&color=00D9FF&style=plastic" alt="Followers" />
 </a>
 <a href="https://github.com/ldpacl?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ldpacl?label=⭐%20Total%20Stars&color=FFD700&style=plastic&logo=github&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/ldpacl?label=⭐%20Total%20Stars&color=FFD700&style=plastic" alt="Total Stars" />
 </a>
 <a href="https://github.com/ldpacl?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ldpacl?affiliations=OWNER&label=🌟%20My%20Stars&color=FF6B9D&style=plastic&logo=github&logoColor=white" alt="My Stars" />
+  <img src="https://img.shields.io/github/stars/ldpacl?affiliations=OWNER&label=🌟%20My%20Stars&color=FF6B9D&style=plastic" alt="My Stars" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=550&lines=Passionate+about+Cloud+%26+Security;Building+Scalable+Solutions;Always+Learning+%26+Growing" alt="About Me Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=550&lines=Passionate+about+Cloud+%26+Security;Building+Scalable+Solutions;Always+Learning+%26+Growing" alt="About Me Animation" />
 
 <br><br>
 
