@@ -11,7 +11,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ldpacl&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ldpacl?label=👥%20Followers&color=00D9FF&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/ldpacl?label=⭐%20Total%20Stars&color=FFD700&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/ldpacl?affiliations=OWNER&label=🌟%20My%20Stars&color=FF6B9D&style=for-the-badge)
 
 </div>
 
@@ -81,12 +80,6 @@
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldpacl&theme=tokyonight" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <p><i>GitHub stats cards are temporarily unavailable due to service maintenance.</i></p>
   
 </div>
 
@@ -179,9 +172,7 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/main/dist/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
-  
-  <p><i>Snake animation is generated automatically by GitHub Actions.</i></p>
+  <img src="https://raw.githubusercontent.com/ldpacl/ldpacl/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   
 </div>
 
@@ -191,10 +182,11 @@
 
 <div align="center">
   
-  <h3>💼 Professional Networks & Coding Platforms</h3>
-  
   <a href="https://www.linkedin.com/in/deepak--n/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak--n/" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/1_dpac_1" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   
 </div>
@@ -203,12 +195,8 @@
 
 <div align="center">
   
-  <p align="center"> 
-    <b>Thanks for visiting! 👋</b>
-  </p>
+  <b>Thanks for visiting! 👋</b>
   
-<p align="center">
-    <i>⚡ Building the future, one commit at a time ⚡</i>
-</p>
+  <p><i>⚡ Building the future, one commit at a time ⚡</i></p>
   
 </div>
