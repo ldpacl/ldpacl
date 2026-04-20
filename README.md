@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Deepak;Networking+Enthusiast;Cloud+Architect;Cybersecurity+Specialist" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🌐 Building Secure Cloud Infrastructure | 🔒 Cybersecurity Advocate /h3>
+<h3 align="center">🌐 Building Secure Cloud Infrastructure | 🔒 Cybersecurity Advocate </h3>
 
 ---
 
